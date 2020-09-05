@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    color: white;
+    background-color: black;
+    /* border: solid 10px blue; */
+    border-radius: 10px;
+    padding: 10px;
+    background: linear-gradient(red,rgb(214, 94, 238), gray);
+    /* margin: 50px; */
+}
+
+img{
+    width: 324px;
+    height: 576px;
+    border-radius: 20px;
+    filter: grayscale(100%);
+    margin: 50px;
+}
